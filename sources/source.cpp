@@ -65,7 +65,7 @@ void logg() {
     start();
 }
 
-int main() {
-    logg();
-    return 0;
-}
+// int main() {
+//     logg();
+//     return 0;
+// }
